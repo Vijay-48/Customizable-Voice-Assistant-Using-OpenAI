@@ -24,7 +24,7 @@ This project implements a voice-controlled assistant that can be personalized by
 1. Clone the repository.
 2. Install the required Python packages:
 
-  pip install openai SpeechRecognition pyaudio playsound gtts
+  - pip install openai SpeechRecognition pyaudio playsound gtts
 
 3. Replace the placeholder api_key with your OpenAI API key.
 4. Run the script and set your custom assistant name via voice input.
